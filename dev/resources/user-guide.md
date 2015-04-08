@@ -164,7 +164,7 @@ Here is a list of yada's features :-
 - Content negotiation
 - Cache control
 - Automatic rendering of resources into representations
-- Support for [Swagger](http:/swagger.io)
+- Support for [Swagger](http://swagger.io)
 - High performance
 
 With yada, many things you would expect to have to code yourself and taken care of automatically, leaving you to focus on other aspects of your application.
